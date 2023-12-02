@@ -13,7 +13,5 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danargh&show_icons=true&locale=en&layout=compact" alt="danargh" /></p>
-
 
 
