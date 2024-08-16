@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danar Ghulamsyah</h1>
 <h3 align="center">
-  A passionate Frontend Developer with a keen interest in creating delightful
+  A passionate Fullstack Developer with a keep interest in creating delightful
   and interactive web experiences. My goal is to bring ideas to life through
   elegant and efficient code.
 </h3>
