@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danargh&show_icons=true&locale=en&layout=compact" alt="danargh" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danargh&" alt="danargh" /></p>
+
 
 
 
