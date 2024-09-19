@@ -13,13 +13,20 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>React small project</strong></li>
   <li>🌱 I’m currently learning <strong>Backend Golang</strong></li>
-  <li>💬 Ask me about <strong>React, UI/UX design, Javascript</strong></li>
   <li>📫 How to reach me <strong>danargh86@gmail.com</strong></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/danargh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danargh" height="30" width="40" /></a>
+<a href="https://medium.com/@danargh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danargh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danargh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danargh" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danargh&show_icons=true&locale=en&layout=compact" alt="danargh" /></p>
+
 
 
 
