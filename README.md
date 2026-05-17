@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danar Ghulamsyah</h1>
+<h1 align="center">Hi 👋, I'm Danar</h1>
 <h3 align="center">
   A passionate Fullstack Developer with a keep interest in creating delightful
   and interactive web experiences. My goal is to bring ideas to life through
@@ -14,13 +14,8 @@
 
 <ul>
   <li>🌱 I’m currently learning <strong>Backend Golang</strong></li>
-  <li>📫 How to reach me <strong>danargh86@gmail.com</strong></li>
+  <li>📫 How to reach me <strong></strong></li>
 </ul>
-
-<p align="left">
-<a href="https://linkedin.com/in/danargh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danargh" height="30" width="40" /></a>
-<a href="https://medium.com/@danargh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danargh" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danargh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danargh" /></a></p><br />
